@@ -30,4 +30,4 @@ const calcular = document.getElementById('resultado');
     arr = [1, 6, 8, 12, 14, 18, 20]
 }
 
-calcular.addEventListener('click', calcular);
+resultado.addEventListener('click', calcular);
