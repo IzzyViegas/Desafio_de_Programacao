@@ -1,0 +1,35 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+  background-color: #C2E3EF;
+}
+
+h1 {
+margin: 1%;
+padding: 30px 0;
+color: #622781;
+text-shadow: 2px 2px 2px black;
+text-align: center;
+}
+
+.title {
+  color: darkgoldenrod;
+  justify-content: center;
+}
+
+
+textarea {
+  color: black;
+}
+
+form {
+  margin-bottom: 1%;
+  height: 20px;
+  margin-left: 2em;
+  border-width: thick;
+  border-color: black;
+	background: #622781;
+}
+
